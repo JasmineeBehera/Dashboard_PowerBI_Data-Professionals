@@ -14,5 +14,5 @@ survey responses from data professionals across different countries.
 - Work-life balance satisfaction is higher than salary satisfaction.
 
 ## Dashboard Preview
-![Dashboard](C:\Users\Jasminee Behera\OneDrive\Attachments\Desktop\Dashboard_data professionals\Dashboard-Power-BI---Data-Professionals\Dashboard- Data Professionals Survey.png)
+![Dashboard](https://github.com/JasmineeBehera/Dashboard_PowerBI_Data-Professionals/blob/main/Dashboard-%20Data%20Professionals%20Survey.png)
 
